@@ -1,0 +1,23 @@
+
+
+body {
+    background: #A3A3C2;
+    color: #000;
+    font-family: Calibri, Arial, sans-serif;
+    font-size: 150%;
+    margin: auto;
+}
+
+
+h1 { text-align: center;
+padding:15px 40px;
+	
+}
+	
+	p {text-align:left;
+	width:500px;
+	Padding: 15px 40px;
+	Margin: auto;
+	border: 2px #333;
+	background: #fff;
+}
